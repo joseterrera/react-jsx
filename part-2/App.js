@@ -15,7 +15,7 @@ function App() {
       />
       <Tweet
         name="Bob Hope"
-        username="bobhope"
+        username="bobhopecd"
         date={new Date().toDateString()}
         message="Follow me on Twitter!"
       />
